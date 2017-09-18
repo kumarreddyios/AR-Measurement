@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2D29E6BD1F7010ED00C23AB5 /* DistanceProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D29E6BC1F7010ED00C23AB5 /* DistanceProtocol.swift */; };
 		2DE035DC1F6A4C570081439D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DE035DB1F6A4C570081439D /* AppDelegate.swift */; };
 		2DE035DE1F6A4C570081439D /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = 2DE035DD1F6A4C570081439D /* art.scnassets */; };
 		2DE035E01F6A4C570081439D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DE035DF1F6A4C570081439D /* ViewController.swift */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2D29E6BC1F7010ED00C23AB5 /* DistanceProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DistanceProtocol.swift; sourceTree = "<group>"; };
 		2DE035D81F6A4C570081439D /* AR-Measure.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "AR-Measure.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2DE035DB1F6A4C570081439D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2DE035DD1F6A4C570081439D /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
@@ -69,6 +71,7 @@
 				2DE035E91F6A4C570081439D /* Info.plist */,
 				2DE035EF1F6A9A2E0081439D /* TrackerNode.swift */,
 				2DE035F11F6A9DCC0081439D /* Utilities.swift */,
+				2D29E6BC1F7010ED00C23AB5 /* DistanceProtocol.swift */,
 			);
 			path = "AR-Measure";
 			sourceTree = "<group>";
@@ -148,6 +151,7 @@
 			files = (
 				2DE035E01F6A4C570081439D /* ViewController.swift in Sources */,
 				2DE035F01F6A9A2E0081439D /* TrackerNode.swift in Sources */,
+				2D29E6BD1F7010ED00C23AB5 /* DistanceProtocol.swift in Sources */,
 				2DE035F21F6A9DCC0081439D /* Utilities.swift in Sources */,
 				2DE035DC1F6A4C570081439D /* AppDelegate.swift in Sources */,
 			);
